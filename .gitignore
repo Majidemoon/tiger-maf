@@ -1,0 +1,22 @@
+# vs code files
+.vscode
+tigerMaf/__pycache__
+tigerMaf/plugins/__pycache__
+
+# BackUp files
+backup
+tigerMaf.tar.xz
+
+# env file
+.env
+
+#venv
+venv
+
+# DataBase
+*.db
+sql.py
+
+# Sessions
+TigerMaf.session
+TigerMaf.session-journal

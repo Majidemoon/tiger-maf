@@ -1,0 +1,10 @@
+# help of users status
+
+0 = ban
+1 = normaluser
+2 = registerd
+3 = registerd + dart
+4 = registerd + dart + bowling
+5 = registerd + dart + bowling + basketball
+6 = registerd + dart + bowling + basketball + football
+7 = registerd + dart + bowling + basketball + football + cazino
